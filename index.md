@@ -130,7 +130,7 @@ As it takes 2 weeks for the vaccine to work, aim to be vaccinated between Septem
 
 All flu shots in the 2021-2022 season are Quadrivalent, which means you are protected against four strains of flu viruses.
 The shot is usually given in the upper arm. Infants between the age of 6 – 12 months old receive the shot in the thigh.
-Four flu vaccines are approved for those 6 months and older: Afluria, Fluarix, FluLaval, and Fluzone.
+Four flu vaccines are approved for those 6 months and older: _Afluria_, _Fluarix_, _FluLaval_, and _Fluzone_.
 
 Different flu shots are licensed for different age groups:
 
@@ -163,9 +163,10 @@ Babies will benefit from immunity during the first few months of their lives whe
 Some flu vaccines are made with egg protein. This might be a concern to people who have egg allergies.
 Egg allergies are not rare, as 1 in 80 kids and 1 in 500 adults have an allergy to eggs. But most of the time, a flu shot will not cause an allergic reaction.
 Even someone who gets rashes or hives from eggs can get a flu vaccine without a problem.
+
 If you can eat birthday cake or lightly cooked egg whites, it is safe to get a flu vaccine. As long as you do not have a life-threatening (anaphylactic) reaction to eggs, 
 you can get a flu vaccine that is made with egg protein. For those with a life-threatening allergy to eggs, 
-Flublok and Flucelvax are specially made flu vaccines without the egg protein.
+_Flublok_ and _Flucelvax_ are specially made flu vaccines without the egg protein.
 
 **Is it okay to get my COVID-19 shot with the flu shot?**
 
