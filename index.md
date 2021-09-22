@@ -1,5 +1,4 @@
-# Medical Writing Samples
-**Mi Yun PharmD**
+# Mi Yun | Medical Writing Samples
 
 ## [Sample 1] Short
 
