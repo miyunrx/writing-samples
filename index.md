@@ -1,6 +1,6 @@
 # Mi Yun | Medical Writing Samples
 
-## [Sample 1] Short
+## SAMPLE SHORT
 
 ### What should I do if my transdermal patch falls off?
 
@@ -39,7 +39,7 @@ Letter/Prescriber’s Letter. August 2021.
 - Clinical Resource, Dos and Don’ts With Patches. Pharmacist’s Letter/Prescriber’s Letter.
 August 2021.
 
-## [Sample 2] Medium
+## SAMPLE MEDIUM
 
 ### What’s The Difference Between OTC and Prescription Omega-3 Fatty Acids?
 
@@ -102,7 +102,7 @@ Prescription omega-3 fatty acids should be saved for those who have very high le
 - Lovaza [package insert]. Research Triangle Park, NC: GlaxoSmithKline; 2008.
 - Vascepa [package insert]. Dublin, Ireland: Amarin Pharma Inc.; 2016
 
-## [Sample 3] Long
+## SAMPLE LONG
 
 ### When should I get my flu shot and what type of flu shot should I get?
 
