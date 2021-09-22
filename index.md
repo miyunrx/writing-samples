@@ -1,8 +1,6 @@
 # Mi Yun | Medical Writing Samples
 
-## SAMPLE SHORT
-
-### What should I do if my transdermal patch falls off?
+## 1. What should I do if my transdermal patch falls off?
 
 Transdermal patches are convenient for people who cannot swallow
 tablets or capsules. Patches often have less frequent dosing which can
@@ -39,9 +37,7 @@ Letter/Prescriber’s Letter. August 2021.
 - Clinical Resource, Dos and Don’ts With Patches. Pharmacist’s Letter/Prescriber’s Letter.
 August 2021.
 
-## SAMPLE MEDIUM
-
-### What’s The Difference Between OTC and Prescription Omega-3 Fatty Acids?
+## 2. What’s The Difference Between OTC and Prescription Omega-3 Fatty Acids?
 
 Omega-3 fatty acids have many health benefits like heart, brain, and eye health.
 Two important types of omega-3 fatty acids are eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA).
@@ -102,9 +98,7 @@ Prescription omega-3 fatty acids should be saved for those who have very high le
 - Lovaza [package insert]. Research Triangle Park, NC: GlaxoSmithKline; 2008.
 - Vascepa [package insert]. Dublin, Ireland: Amarin Pharma Inc.; 2016
 
-## SAMPLE LONG
-
-### When should I get my flu shot and what type of flu shot should I get?
+## 3. When should I get my flu shot and what type of flu shot should I get?
 
 The CDC recommends that everyone gets his or her flu shot every year.
 Especially now with COVID-19, more people are becoming aware of everyday vaccines.
